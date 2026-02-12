@@ -1,7 +1,0 @@
-.venv
-__pycache__
-.env
-service_account.json
-*.pyc
-.git
-.vscode
